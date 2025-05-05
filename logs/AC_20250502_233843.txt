@@ -1,0 +1,5 @@
+Estado: Acre
+Modelo: Random Forest
+Casos totais: 372340
+MAE: 0.08
+RMSE: 0.11

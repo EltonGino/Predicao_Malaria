@@ -1,0 +1,5 @@
+Estado: Maranhão
+Modelo: Random Forest
+Casos totais: 109078
+MAE: 0.07
+RMSE: 0.08

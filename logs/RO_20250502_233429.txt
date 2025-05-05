@@ -1,0 +1,5 @@
+Estado: Rondônia
+Modelo: Random Forest
+Casos totais: 1032864
+MAE: 0.53
+RMSE: 0.70

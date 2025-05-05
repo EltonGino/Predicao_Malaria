@@ -1,0 +1,5 @@
+Estado: Amazonas
+Modelo: Random Forest
+Casos totais: 1760328
+MAE: 58.65
+RMSE: 70.34

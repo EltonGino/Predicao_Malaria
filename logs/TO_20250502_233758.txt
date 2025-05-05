@@ -1,0 +1,5 @@
+Estado: Tocantins
+Modelo: SVR
+Casos totais: 5262
+MAE: 0.43
+RMSE: 0.43

@@ -1,0 +1,5 @@
+Estado: Amapá
+Modelo: Random Forest
+Casos totais: 352556
+MAE: 3.15
+RMSE: 5.64
